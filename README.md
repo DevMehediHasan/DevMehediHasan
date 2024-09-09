@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Mehedi Hasan, a full-time full-stack WordPress developer 👨‍💻 working since 2018 🚀</div>  
+### <div align="center">I'm Mehedi Hasan, a full-time full-stack developer 👨‍💻 working since 2018 🚀</div>  
   
 
 - 🔭 I’m currently working on [Elementor Addon](https://github.com/DevMehediHasan/Elementor-Card-addons)  
