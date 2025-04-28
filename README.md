@@ -6,7 +6,7 @@
 ### <div align="center">I'm Mehedi Hasan, a full-time full-stack developer 👨‍💻 working since 2018 🚀</div>  
   
 
-- 🔭 I’m currently working on [Elementor Addon](https://github.com/DevMehediHasan/Elementor-Card-addons)  
+- 🔭 I’m currently working on [Chest AI Faq](https://github.com/DevMehediHasan/chest-ai-faqs)  
   
 
 - 🌱 I’m currently learning MERN stack  
