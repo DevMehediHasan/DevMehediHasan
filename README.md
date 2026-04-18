@@ -6,7 +6,7 @@
 ### <div align="center">I'm Mehedi Hasan, a full-time full-stack developer 👨‍💻 working since 2018 🚀</div>  
   
 
-- 🔭 I’m currently working on [Chest AI Faq](https://github.com/DevMehediHasan/chest-ai-faqs)  
+- 🔭 I’m currently working on [dev toolkit](https://github.com/DevMehediHasan/dev-toolkit)  
   
 
 - 🌱 I’m currently learning MERN stack  
