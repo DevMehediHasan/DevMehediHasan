@@ -1,12 +1,12 @@
 <!-- ======================= HEADER ======================= -->
 <a href="https://github.com/DevMehediHasan">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:4F46E5&height=200&section=header&text=Mehedi%20Hasan&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Building%20since%202018&descAlignY=58&descSize=18" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:4F46E5&height=200&section=header&text=Mehedi%20Hasan&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Building%20since%202017&descAlignY=58&descSize=18" width="100%" />
 </a>
 
 <!-- ======================= TYPING INTRO ======================= -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Full-Time+Full-Stack+Developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;WordPress+%26+Web+Technologies+Expert;Currently+mastering+the+MERN+stack+%F0%9F%8C%B1;Turning+ideas+into+clean+code+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Website+%7C+Software+%7C+Server+Setup+%26+Deployment;WordPress%2C+Laravel%2C+React%2C+Next+%26+Node;Turning+ideas+into+clean%2C+deployed+code+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </div>
 
@@ -18,7 +18,7 @@
 | &nbsp; | &nbsp; |
 |:--|:--|
 | 🔭 &nbsp;**Currently working on** | [dev-toolkit](https://github.com/DevMehediHasan/dev-toolkit) |
-| 🌱 &nbsp;**Currently learning** | Cloud (AWS / DigitalOcean) |
+| 🌱 &nbsp;**Currently exploring** | Cloud & DevOps practices |
 | 💬 &nbsp;**Ask me about** | Full-stack development, server setup & deployment |
 | ⚡ &nbsp;**Fun fact** | Coding since 2017, still learning every day |
 
@@ -33,21 +33,21 @@
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,bootstrap&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap&theme=dark" />
 <br/>
-<img src="https://skillicons.dev/icons?i=figma,ps,ai,xd&theme=dark" />
+<img src="https://skillicons.dev/icons?i=figma,ps,ai&theme=dark" />
 
 <br/><br/>
 
 **Backend**
 
-<img src="https://skillicons.dev/icons?i=php,wordpress,nodejs,express,mongodb&theme=dark" />
+<img src="https://skillicons.dev/icons?i=php,laravel,wordpress,nodejs,express,mongodb,mysql&theme=dark" />
 
 <br/><br/>
 
-**DevOps & Tools**
+**DevOps & Deployment**
 
-<img src="https://skillicons.dev/icons?i=linux,git,github,bash&theme=dark" />
+<img src="https://skillicons.dev/icons?i=linux,nginx,docker,git,github,bash&theme=dark" />
 
 </div>
 
