@@ -57,8 +57,8 @@
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=DevMehediHasan&show_icons=true&hide_border=true&count_private=true&title_color=8A2BE2&icon_color=8A2BE2&text_color=c9d1d9&bg_color=0d1117" />
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevMehediHasan&layout=compact&hide_border=true&title_color=8A2BE2&text_color=c9d1d9&bg_color=0d1117" />
+  <img width="49%" src="https://github-readme-stats-git-master-devmehedihasan.vercel.app/api?username=DevMehediHasan&show_icons=true&hide_border=true&count_private=true&title_color=8A2BE2&icon_color=8A2BE2&text_color=c9d1d9&bg_color=0d1117" />
+  <img width="40%" src="https://github-readme-stats-git-master-devmehedihasan.vercel.app/api/top-langs/?username=DevMehediHasan&layout=compact&hide_border=true&title_color=8A2BE2&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
 <div align="center">
